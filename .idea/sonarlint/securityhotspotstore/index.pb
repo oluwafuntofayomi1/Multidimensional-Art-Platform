@@ -9,3 +9,5 @@ O
 contracts/curation-process.clar,4/2/42fca52fcc3456ec274023105c08c50436e2f82e
 [
 +contracts/inter-dimensional-exhibition.clar,1/a/1a5bc92ce84353b718c780ab0fa1d836585e1e9f
+Z
+*tests/inter-dimensional-exhibition.test.ts,0/7/07689e3c4c0e9c25f6ad32e7faa6183b1099471d
