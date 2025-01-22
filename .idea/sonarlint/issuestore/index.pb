@@ -7,3 +7,5 @@ V
 &tests/multidimensional-artwork.test.ts,0/f/0f75f0e8df9885c52a317fb557f7fcd804134aed
 O
 contracts/curation-process.clar,4/2/42fca52fcc3456ec274023105c08c50436e2f82e
+[
++contracts/inter-dimensional-exhibition.clar,1/a/1a5bc92ce84353b718c780ab0fa1d836585e1e9f
